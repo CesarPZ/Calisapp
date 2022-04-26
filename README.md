@@ -1,10 +1,10 @@
 # Calisapp
 
+<p align="center">
+  <img src="https://github.com/CesarPZ/Calisapp/blob/main/images/calisapp.png" alt="alt text" height="300">
+</p>
 
-LOGO!!!!!!!
-
-
-
+##
 ### Integrantes:
 +   Cesar Perez
 +   Marcelo Di Costanzo
@@ -13,14 +13,6 @@ LOGO!!!!!!!
 +   Grupo  4
 
 ##
-### Motivación del proyecto:
-
-FALTA MOTIVACION!!!!
-
-### Objetivo del proyecto:
-
-FALTA OBJETIVO!!!!
-
 ### Tecnología: 
 
 Back-end:
