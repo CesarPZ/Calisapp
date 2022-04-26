@@ -1,8 +1,8 @@
 # Calisapp
 
-
-![Image text](https://github.com/CesarPZ/Calisapp/blob/main/images/calisapp.png)
-
+<p align="center">
+  <img src="https://github.com/CesarPZ/Calisapp/blob/main/images/calisapp.png" alt="alt text" height="300">
+</p>
 
 ##
 ### Integrantes:
